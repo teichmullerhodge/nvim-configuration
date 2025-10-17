@@ -12,7 +12,7 @@ This repository contains my personal Neovim configuration files, tailored to enh
 
 #### Installation
 
-1. Ensure you have Neovim installed (version 1.0 or higher).
+1. Ensure you have Neovim installed (version 0.1 or higher).
 2. Backup your existing Neovim configuration if necessary.
 3. Clone this repository to your Neovim configuration directory:
    ```bash
