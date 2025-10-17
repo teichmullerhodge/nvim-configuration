@@ -16,7 +16,7 @@ This repository contains my personal Neovim configuration files, tailored to enh
 2. Backup your existing Neovim configuration if necessary.
 3. Clone this repository to your Neovim configuration directory:
    ```bash
-   git clone https://github.com/yourusername/nvim-config.git ~/.config/nvim
+   git clone https://github.com/teichmullerhodge/nvim-configuration.git ~/.config/nvim
    ```
 4. Open Neovim and wait for the plugins to install automatically.
 5. Restart Neovim to apply all configurations, if needed.
