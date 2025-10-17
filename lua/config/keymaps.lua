@@ -16,6 +16,10 @@ vim.g.maplocalleader = "\\"
 map("n", "<A-z>", "<cmd>vsplit<CR>", { desc = "Split vertically" })
 map("n", "<A-x>", "<cmd>split<CR>", { desc = "Split horizontally" })
 
+-- Themes 
+
+vim.keymap.set("n", "<A-t>", "<cmd>Telescope colorscheme<cr>", { desc = "Change colorscheme" })
+
 
 -- Navigation between splits
 
