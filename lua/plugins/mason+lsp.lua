@@ -18,7 +18,7 @@ return {
       "neovim/nvim-lspconfig",
     },
     opts = {
-      ensure_installed = { "clangd", "pyright", "rust_analyzer", "phpactor" },  
+      ensure_installed = { "clangd", "pyright", "rust_analyzer", "phpactor", "ts_ls", "nimls"},  
       automatic_enable = true,
     },
   },
